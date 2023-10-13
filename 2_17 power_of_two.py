@@ -1,0 +1,11 @@
+a = 2
+print("power(2,1) = ", a<<0)
+print("power(2,2) = ", a<<1)
+print("power(2,3) = ", a<<2)
+print("power(2,4) = ", a<<3)
+print("power(2,5) = ", a<<4)
+print("power(2,6) = ", a<<5)
+print("power(2,7) = ", a<<6)
+print("power(2,8) = ", a<<7)
+print("power(2,9) = ", a<<8)
+print("power(2,10) = ", a<<9)
